@@ -1,4 +1,4 @@
-# organicbusiness
+# Organic Bussines Project
 Organic Bussines Repository Files
 
 Manager is important to know that it is not broke, and the process goes. So it is necessary to automate this part.
