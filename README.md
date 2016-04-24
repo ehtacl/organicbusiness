@@ -7,7 +7,7 @@
 Manager is important to know that it is not broke, and the process goes. So it is necessary to automate this part.
 
 I work through his round and shoot the manager here follow the commits.
-As a designer, I give access to a folder in Dropbox https://www.dropbox.com/sh/cgjskyh4uviy1t0/AADRGaaFTZqD8xIFupeh4gXSa?dl=0 and layouts are automatically saved there.
+As a designer, I give access to [a folder in Dropbox] (https://www.dropbox.com/sh/cgjskyh4uviy1t0/AADRGaaFTZqD8xIFupeh4gXSa?dl=0) and layouts are automatically saved there.
 
 ## License
 
